@@ -3,11 +3,12 @@ import Input from '../Input/index.js';
 import Output from '../Output/index.js';
 import { arMaykr } from '../../utils/helpers';
 import './style.css';
-var output = ``
+var output
 
 function Display() {
     const data = (data) => {
-        output = {data};
+        output = arMaykr(data)
+        console.log(output)
     }
     return (<main>
         <div className="container text-center">
@@ -19,7 +20,7 @@ function Display() {
                     <h1>Arrow pointing right</h1>
                 </div>
                 <div className="col-5 card">
-                    <Output io= {arMaykr(output)} />
+                    <Output io={output} />
                 </div>
             </div>
         </div>
