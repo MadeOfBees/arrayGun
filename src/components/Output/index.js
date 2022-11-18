@@ -1,10 +1,12 @@
 import React, { useState } from 'react';
 import './style.css';
 
-function Output() {
+function Output(props) {
     return (
         <div>
-
+            <p>
+                {props.io}
+            </p>
         </div>
     );
 };

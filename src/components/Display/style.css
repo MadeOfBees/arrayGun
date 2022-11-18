@@ -1,1 +1,6 @@
-/* comment */
+.and-i-mean-really-center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid;
+    padding: 10px;
+}
