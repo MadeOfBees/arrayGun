@@ -1,24 +1,21 @@
 import React, { useState } from 'react';
 import './style.css';
-import { arMaykr } from '../../utils/helpers';
 
 
-function Input(props) {
+const Input = (props) => {
     const [input, setinput] = useState('');
-
     const handleInputChange = (e) => {
         const { target } = e;
-        const inputValue = target.value;
-        setinput(inputValue);
+        setinput(target.value);
     };
 
     const handleFormSubmit = (e) => {
         e.preventDefault();
-        return arMaykr(input)
+        props.onSubmit(input);
     };
 
     return (
-        <form className="form">
+        <form onSubmit={handleFormSubmit}>
             <input
                 value={input}
                 name="input"
