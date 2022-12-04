@@ -1,14 +1,12 @@
-# Rouletteo 
+# ArrayGun 
 
     
 ## Description: 
- Input a list and we'll pick one for you 
-![1](https://user-images.githubusercontent.com/9198297/205467513-3691a982-2fb5-4f07-8bd0-b7ef407dd640.jpg)
+ Input a list and we'll turn it into an array for you
 
     
 ## Installation/Instructions: 
- Click the Github Pages link:https://madeofbees.github.io/Rouletteo/ then navigate to the Rouletteo tab on the bottom nav-bar, enter a list, and once your list is finished click the button and we'll pick for you! 
-![2](https://user-images.githubusercontent.com/9198297/205467516-62a38035-dbf3-46d3-aa7b-5ee6e65ab7ad.jpg)
+ Click the Github Pages link:https://madeofbees.github.io/ArrayGun/ then navigate to the ArrayGun tab on the bottom nav-bar, enter a list, and once your list is finished click the button and we'll package it up into an array and shoot it over to you! 
 
     
 ## Report an issue: 
