@@ -1,7 +1,7 @@
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 function greetings() {
-  console.log(bzz)
+  console.log("bzz")
   if (new Date().getHours() < 12) {
     return 'morning';
   } else if (new Date().getHours() < 18) {
