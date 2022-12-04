@@ -27,7 +27,7 @@ function App() {
         <div className="Central">
           <Routes className="Central">
             <Route
-              path="/ArrayGun"
+              path="/arrayGun"
               element={<Home />}
             />
             <Route
