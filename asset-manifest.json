@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ArrayGun/static/css/main.453879f6.css",
+    "main.js": "/ArrayGun/static/js/main.be19e520.js",
+    "index.html": "/ArrayGun/index.html",
+    "main.453879f6.css.map": "/ArrayGun/static/css/main.453879f6.css.map",
+    "main.be19e520.js.map": "/ArrayGun/static/js/main.be19e520.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453879f6.css",
+    "static/js/main.be19e520.js"
+  ]
+}
