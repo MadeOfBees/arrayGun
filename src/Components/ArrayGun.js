@@ -8,7 +8,7 @@ import TextField from '@mui/material/TextField';
 import Backdrop from '@mui/material/Backdrop';
 import Modal from '@mui/material/Modal';
 import Fade from '@mui/material/Fade';
-import Typography from '@mui/material/Typography';
+
 
 
 const Item = styled(Paper)(({ theme }) => ({
@@ -80,11 +80,7 @@ function ArrayGun() {
                 }}
             >
                 <Fade in={open}>
-                    <Box sx={style}>
-                        <Typography id="modal-modal-description" variant="h6" component="h6">
-                            {output}
-                        </Typography>
-                    </Box>
+                    <Box sx={style} className="Modal">{output}</Box>
                 </Fade>
             </Modal>
         </div>
