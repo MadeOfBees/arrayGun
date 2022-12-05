@@ -3,10 +3,12 @@
     
 ## Description: 
  Input a list and we'll turn it into an array for you
+![1](https://user-images.githubusercontent.com/9198297/205679708-5297aafe-866a-4c10-bfa6-0a1501f7a724.PNG)
 
     
 ## Installation/Instructions: 
  Click the Github Pages link:https://madeofbees.github.io/ArrayGun/ then navigate to the ArrayGun tab on the bottom nav-bar, enter a list, and once your list is finished click the button and we'll package it up into an array and shoot it over to you! 
+![2](https://user-images.githubusercontent.com/9198297/205679721-4a003000-e079-43c6-bcf4-ef00f665ec8e.PNG)
 
     
 ## Report an issue: 
