@@ -2,8 +2,8 @@
 
     
 ## Description: 
- Input a list and we'll turn it into an array for you
-![1](https://user-images.githubusercontent.com/9198297/205679708-5297aafe-866a-4c10-bfa6-0a1501f7a724.PNG)
+ Input a list and we'll turn it into an array for you ![1](https://user-images.githubusercontent.com/9198297/205679708-5297aafe-866a-4c10-bfa6-0a1501f7a724.PNG)
+
 
     
 ## Installation/Instructions: 
