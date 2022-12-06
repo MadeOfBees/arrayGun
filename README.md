@@ -4,7 +4,6 @@
 ## Description: 
  Input a list and we'll turn it into an array for you
 
-
     
 ## Installation/Instructions: 
  Click the Github Pages link:https://madeofbees.github.io/ArrayGun/ then navigate to the ArrayGun tab on the bottom nav-bar, enter a list, and once your list is finished click the button and we'll package it up into an array and shoot it over to you! 
