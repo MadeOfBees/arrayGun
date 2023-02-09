@@ -9,7 +9,8 @@
 ![2](https://user-images.githubusercontent.com/9198297/205679721-4a003000-e079-43c6-bcf4-ef00f665ec8e.PNG)
 
 ## Report an issue: 
- Yell loudly discribing your your bug and how to replicate the issue
+ 
+ Contact me at imMadeOfBees@gmail.com explaining the issue and how to replicate it.
 
 ## Support me: 
  This project was made by MadeOfBees (https://github.com/MadeOfBees), if you want to support this project: give me your code plz
